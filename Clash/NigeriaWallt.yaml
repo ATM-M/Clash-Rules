@@ -1,0 +1,109 @@
+# Nigeria Wallet.yaml
+# 尼日利亚常用钱包规则文件
+# 更新时间: 2025-09-19
+# 版本: v1.0
+
+payload:
+  # === 主要钱包服务 ===
+  - DOMAIN-SUFFIX,chippercash.com
+  - DOMAIN-SUFFIX,paga.com
+  - DOMAIN-SUFFIX,moniepoint.com
+  - DOMAIN-SUFFIX,moniepoinc.com
+  - DOMAIN-SUFFIX,opayweb.com
+  - DOMAIN-SUFFIX,kuda.com
+  - DOMAIN-SUFFIX,palmpay-inc.com
+  - DOMAIN-SUFFIX,palmmerchant.com
+  - DOMAIN-SUFFIX,palremit.com
+  
+  # === 第三方服务和API ===
+  - DOMAIN-SUFFIX,amplitude.com
+  - DOMAIN,graph.facebook.com
+  - DOMAIN,api.sprig.com
+  - DOMAIN,notify.bugsnag.com
+  - DOMAIN-SUFFIX,gist.build
+  - DOMAIN,int.kvaedit.site
+  - DOMAIN,userimg-assets-eu.customeriomail.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN,clientstream.launchdarkly.com
+  - DOMAIN-SUFFIX,appcenter.ms
+  
+  # === 其他金融服务 ===
+  - DOMAIN-SUFFIX,teamapt.com
+  - DOMAIN-SUFFIX,gomoney.global
+  - DOMAIN-SUFFIX,timon.cards
+  - DOMAIN-SUFFIX,bitgetapps.com
+  - DOMAIN-SUFFIX,parkway.ng
+  - DOMAIN-SUFFIX,useaccrue.com
+  - DOMAIN-SUFFIX,yangaplug.com
+  - DOMAIN-SUFFIX,squareme.app
+  
+  # === 云服务 ===
+  - DOMAIN,us-central1-eversendapp1.cloudfunctions.net
+  - DOMAIN,europe-west2-eversendapp1.cloudfunctions.net
+  - DOMAIN-SUFFIX,eversendapp1.cloudfunctions.net
+  
+  # === 加密货币和交易 ===
+  - DOMAIN-SUFFIX,nexo.com
+  - DOMAIN-SUFFIX,quidax.io
+  - DOMAIN-SUFFIX,cardtonic.com
+  - DOMAIN-SUFFIX,bitnob.app
+  
+  # === 支付和金融科技 ===
+  - DOMAIN-SUFFIX,spenda.africa
+  - DOMAIN-SUFFIX,payswitch.africa
+  - DOMAIN-SUFFIX,aimtoget.com
+  - DOMAIN-SUFFIX,geepay.africa
+  - DOMAIN-SUFFIX,api.v2.geepay.africa
+  - DOMAIN-SUFFIX,flutterwave.com
+  - DOMAIN-SUFFIX,cardify.co
+  
+  # === 银行服务 ===
+  - DOMAIN-SUFFIX,alat.ng
+  - DOMAIN-SUFFIX,altbank.ng
+  - DOMAIN,onebank.sterling.ng
+  - DOMAIN-SUFFIX,sterling.ng
+  - DOMAIN-SUFFIX,firstbanknigeria.com
+  - DOMAIN-SUFFIX,gtbank.com
+  
+  # === 其他服务 ===
+  - DOMAIN,user-gw.grey.engineering
+  - DOMAIN-SUFFIX,grey.engineering
+  - DOMAIN-SUFFIX,allawee.com
+  - DOMAIN-SUFFIX,kredete.io
+  - DOMAIN-SUFFIX,mtn.ng
+  
+  # === 尼日VPS Site ===
+  - DOMAIN-SUFFIX,suburbancloud.ng
+  
+  # === 可选服务（如需启用请取消注释）===
+  # - DOMAIN-SUFFIX,onesignal.com
+  
+  # === 关键字匹配（保底规则）===
+  - DOMAIN-KEYWORD,gomoney
+  - DOMAIN-KEYWORD,firstbank
+  - DOMAIN-KEYWORD,timon
+  - DOMAIN-KEYWORD,alat
+  - DOMAIN-KEYWORD,altbank
+  - DOMAIN-KEYWORD,quidax
+  - DOMAIN-KEYWORD,onebank
+  - DOMAIN-KEYWORD,chippercash
+  - DOMAIN-KEYWORD,moniepoint
+  - DOMAIN-KEYWORD,paga
+  - DOMAIN-KEYWORD,opay
+  - DOMAIN-KEYWORD,kuda
+  - DOMAIN-KEYWORD,nexo
+  - DOMAIN-KEYWORD,bitget
+  - DOMAIN-KEYWORD,aimtoget
+  - DOMAIN-KEYWORD,parkway
+  - DOMAIN-KEYWORD,geepay
+  - DOMAIN-KEYWORD,payswitch
+  - DOMAIN-KEYWORD,flutterwave
+  - DOMAIN-KEYWORD,allawee
+  - DOMAIN-KEYWORD,gtbank
+  - DOMAIN-KEYWORD,kredete
+  - DOMAIN-KEYWORD,squareme
+  - DOMAIN-KEYWORD,spenda
+  - DOMAIN-KEYWORD,cardify
+  - DOMAIN-KEYWORD,cardtonic
+  - DOMAIN-KEYWORD,bitnob
+  - DOMAIN-KEYWORD,mymtn
