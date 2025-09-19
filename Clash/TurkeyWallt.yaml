@@ -1,0 +1,14 @@
+# Turkey Wallet.yaml
+# 土耳其常用钱包规则文件
+# 更新时间: 2025-09-19
+# 版本: v1.0
+
+payload:
+  - DOMAIN,spyw-idsapi.walletgate.io
+  - DOMAIN-SUFFIX,masterpassturkiye.com
+  - DOMAIN-SUFFIX,walletgate.io
+  - DOMAIN-SUFFIX,kliq.com.tr
+  - DOMAIN-SUFFIX,ininal.com
+  - DOMAIN-SUFFIX,papara.com
+  - DOMAIN-SUFFIX,ozanlimited.com
+  - DOMAIN-SUFFIX,ozan.com
