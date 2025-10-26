@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,palremit.com
 
 # === 第三方服务和API ===
 DOMAIN-SUFFIX,amplitude.com
-DOMAIN,graph.facebook.com
+# DOMAIN,graph.facebook.com
 DOMAIN,api.sprig.com
 DOMAIN,notify.bugsnag.com
 DOMAIN-SUFFIX,gist.build
@@ -30,7 +30,6 @@ DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,teamapt.com
 DOMAIN-SUFFIX,gomoney.global
 DOMAIN-SUFFIX,timon.cards
-DOMAIN-SUFFIX,bitgetapps.com
 DOMAIN-SUFFIX,parkway.ng
 DOMAIN-SUFFIX,useaccrue.com
 DOMAIN-SUFFIX,yangaplug.com
@@ -91,7 +90,6 @@ DOMAIN-KEYWORD,paga
 DOMAIN-KEYWORD,opay
 DOMAIN-KEYWORD,kuda
 DOMAIN-KEYWORD,nexo
-DOMAIN-KEYWORD,bitget
 DOMAIN-KEYWORD,aimtoget
 DOMAIN-KEYWORD,parkway
 DOMAIN-KEYWORD,geepay
